@@ -1,2 +1,2 @@
 # aldmier
-Repository for Aldmier
+Repository for Aldmier, a spiritual successor the DD Fun Server.
