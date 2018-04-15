@@ -30,9 +30,9 @@ public class DiscordController : MonoBehaviour
     {
         presence.state = string.Format("Playing Singleplayer");
         presence.details = string.Format("Exploring Grasslands");
-        presence.startTimestamp = System.DateTime.Now.Ticks;
-        presence.largeImageKey = string.Format("grassland");
-        presence.smallImageKey = string.Format("aldmiersmall");
+		//presence.startTimestamp = System.DateTime.Now.Seconds;
+        presence.largeImageKey = string.Format("aldmierlarge");
+        //presence.smallImageKey = string.Format("aldmiersmall");
 
         DiscordRpc.UpdatePresence(presence);
     }
