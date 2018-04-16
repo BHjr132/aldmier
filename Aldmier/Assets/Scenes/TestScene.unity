@@ -411,25 +411,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e4f9299403033114ea7476a31f7be545, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &983635532 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1648730235489626, guid: d7e77c7e0061f19429863d4af6176a07,
-    type: 2}
-  m_PrefabInternal: {fileID: 1838964638}
---- !u!114 &983635536
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 983635532}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f3cf2db8abf53a469a10de0796028b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  throwForce: 40
-  grenadePrefab: {fileID: 1411298326234748, guid: 8fd51bfd546170d47a8384d90624023f,
-    type: 2}
 --- !u!1 &1040853515
 GameObject:
   m_ObjectHideFlags: 0
